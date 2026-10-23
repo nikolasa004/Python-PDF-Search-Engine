@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Editors and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated search indexes
+.cache/
+graf.pkl
+graf_v2.pkl
+
+# Exported search results
+Rezultati/
+
+# User-provided PDF documents
+*.pdf
